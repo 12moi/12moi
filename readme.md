@@ -1,6 +1,6 @@
 @@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moi Shadrack
-- 👀 I’m a Full Stack Developer.
+- 👀 I’m a Software Engineer.
 - 🌱 I’m currently Django and React.
 - 💞️ I’m looking to collaborate on web programs.
 - 📫 How to reach me ...moishadrack@gmail.com
