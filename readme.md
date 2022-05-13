@@ -55,7 +55,7 @@
 <a href="https://instagram.com/12moi" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/[Linkedin](https://www.linkedin.com/in/moi-shadrack/)" target="_blank">
+<a href="https://linkedin.com/in/[Linkedin](https://www.linkedin.com/in/moi-shadrack-8451a8227)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/12moi" target="_blank">
