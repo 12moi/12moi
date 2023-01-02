@@ -26,14 +26,6 @@
 ### My Trophies🏆 <!--My Trophies-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=12moi&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/12moi/12moi)
 
-## My Contribution Graph :bar_chart:
-
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=12moi&theme=chartreuse-dark&count_private=true" alt="flo" />
-</p>
-&nbsp;
-<br />
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
