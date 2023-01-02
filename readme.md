@@ -18,7 +18,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=12moi&style=compact-square&color=blue" align="center" alt=""/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?&username=Florence-wangui&repo=12moi&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?&username=12moi&repo=12moi&theme=highcontrast&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12moi&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12moi&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=12moi&theme=highcontrast)](https://git.io/streak-stats)
