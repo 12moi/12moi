@@ -29,7 +29,7 @@
 ## My Contribution Graph :bar_chart:
 
 <p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=12moi&theme=chartreuse-dark&count_private=true" alt="flo" />
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=12moi&theme=chartreuse-dark&count_private=true" alt="12moi" />
 </p>
 &nbsp;
 <br />
