@@ -33,7 +33,7 @@
 </p>
 &nbsp;
 <br />
-[![Florence Nyokabi Wangui's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=12moi&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Florence Nyokabi Wangui's github activity graph](https://https://github-readme-activity-graph.cyclic.app/graph?username=12moi&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
